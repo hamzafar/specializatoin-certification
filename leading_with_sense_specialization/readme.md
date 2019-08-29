@@ -16,9 +16,9 @@ In the final Capstone Project, you will apply the skills you have grown and the 
 
 S.No. | Certificate Name | Certificate Link
 --- | --- | ---
-01 | Building Your Leadership Skills | [View Certificate]
-02 | Giving Sense to Your Leadership Experience | [View Certificate]
-03 | Leading Organizations | [View Certificate]
+01 | Building Your Leadership Skills | [View Certificate](https://www.coursera.org/account/accomplishments/certificate/UCLH6ZMHSSST)
+02 | Giving Sense to Your Leadership Experience | [View Certificate](https://www.coursera.org/account/accomplishments/certificate/MBC2FMGPPL97)
+03 | Leading Organizations | [View Certificate](https://www.coursera.org/account/accomplishments/certificate/PC893WW7RHTD)
 
 ---
 # Description of Certificates:
